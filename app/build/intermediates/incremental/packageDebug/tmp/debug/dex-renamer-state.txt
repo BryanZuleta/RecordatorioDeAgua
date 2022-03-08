@@ -1,0 +1,4 @@
+#Mon Mar 07 19:16:34 COT 2022
+base.0=C\:\\Users\\USUARIO\\Desktop\\WaterReminder - copia\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
