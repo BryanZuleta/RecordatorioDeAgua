@@ -1,4 +1,4 @@
-#Mon Mar 07 19:16:34 COT 2022
-base.0=C\:\\Users\\USUARIO\\Desktop\\WaterReminder - copia\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
-renamed.0=classes.dex
+#Wed May 06 17:57:04 COT 2020
+base.0=C\:\\Users\\user\\AndroidStudioProjects\\WaterReminder\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
 path.0=classes.dex
+renamed.0=classes.dex

@@ -3,30 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/USUARIO/Desktop/RecordatorioDeAgua/app/src/main/res/layout/fragment_datos.xml" value="0.3140625" />
-        <entry key="..\:/Users/USUARIO/Desktop/RecordatorioDeAgua/app/src/main/res/layout/fragment_home.xml" value="0.3140625" />
-        <entry key="..\:/Users/USUARIO/Desktop/WaterReminder - copia/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1945" />
-        <entry key="..\:/Users/USUARIO/Desktop/WaterReminder - copia/app/src/main/res/drawable/circle.xml" value="0.1945" />
-        <entry key="..\:/Users/USUARIO/Desktop/WaterReminder - copia/app/src/main/res/drawable/consejo2_background.xml" value="0.1945" />
-        <entry key="..\:/Users/USUARIO/Desktop/WaterReminder - copia/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1945" />
-        <entry key="..\:/Users/USUARIO/Desktop/WaterReminder - copia/app/src/main/res/layout/content_scrolling.xml" value="0.25336021505376344" />
-        <entry key="..\:/Users/USUARIO/Desktop/WaterReminder - copia/app/src/main/res/layout/fragment_alarma.xml" value="0.25336021505376344" />
-        <entry key="..\:/Users/USUARIO/Desktop/WaterReminder - copia/app/src/main/res/layout/fragment_bienvenida.xml" value="0.25336021505376344" />
-        <entry key="..\:/Users/USUARIO/Desktop/WaterReminder - copia/app/src/main/res/layout/fragment_consejos.xml" value="0.25336021505376344" />
-        <entry key="..\:/Users/USUARIO/Desktop/WaterReminder - copia/app/src/main/res/layout/fragment_datos.xml" value="0.25336021505376344" />
-        <entry key="..\:/Users/USUARIO/Desktop/WaterReminder - copia/app/src/main/res/layout/fragment_home.xml" value="0.23051075268817203" />
-        <entry key="..\:/Users/USUARIO/Desktop/WaterReminder - copia/app/src/main/res/menu/bottom_nav.xml" value="0.3140625" />
-        <entry key="..\:/Users/USUARIO/Desktop/WaterReminder - copia/app/src/main/res/menu/menu_scrolling.xml" value="0.3140625" />
-        <entry key="..\:/Users/USUARIO/Desktop/WaterReminder/app/src/main/res/layout/fragment_alarma.xml" value="0.33" />
-        <entry key="..\:/Users/USUARIO/Desktop/WaterReminder/app/src/main/res/layout/fragment_bienvenida.xml" value="0.25336021505376344" />
-        <entry key="..\:/Users/USUARIO/Desktop/WaterReminder/app/src/main/res/layout/fragment_consejos.xml" value="0.25336021505376344" />
         <entry key="..\:/Users/user/AndroidStudioProjects/WaterReminder/app/src/main/res/layout/fragment_bienvenida.xml" value="0.30625" />
         <entry key="..\:/Users/user/AndroidStudioProjects/WaterReminder/app/src/main/res/layout/fragment_datos.xml" value="0.30625" />
         <entry key="..\:/Users/user/AndroidStudioProjects/WaterReminder/app/src/main/res/layout/fragment_home.xml" value="0.30625" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

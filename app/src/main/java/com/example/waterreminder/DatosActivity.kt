@@ -51,6 +51,8 @@ class DatosActivity : AppCompatActivity() {
                 if(peso<500){
                     exito = true
                     calculaObjetivoIngesta(peso)
+                    val myPreference = MyPreferenceMeta(this)
+                    myPreference.setMeta(aguaPorBeber)
                 }else{
                     Toast.makeText(this,campoKg.text.toString()+"kg ¿Enserio?, ¡no te creo!", Toast.LENGTH_SHORT).show()
                     return@setOnClickListener

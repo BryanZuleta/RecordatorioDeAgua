@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\USUARIO\\Desktop\\WaterReminder - copia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "C:\\Users\\user\\AndroidStudioProjects\\WaterReminder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\USUARIO\\.gradle\\caches\\transforms-2\\files-2.1\\539b39083f7f09026563a52cd072b7a4\\appcompat-v7-28.0.0\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\539b39083f7f09026563a52cd072b7a4\\appcompat-v7-28.0.0\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\USUARIO\\.gradle\\caches\\transforms-2\\files-2.1\\abd1bd516f10ef737b973d8547c2412d\\design-28.0.0\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-2\\files-2.1\\abd1bd516f10ef737b973d8547c2412d\\design-28.0.0\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

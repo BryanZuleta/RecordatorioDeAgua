@@ -15,4 +15,25 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
     }
+
+    fun verifica(){
+        val myPreference = MyPreferenceBienvenida(this)
+        var login = myPreference.getLogin()
+
+        if (!login){
+            login = true
+            myPreference.setLogin(login)
+        }
+        else{
+            val intent = Intent(this, HomeActivity::class.java)
+            startActivity(intent)
+        }
+
+
+    }
+
+    override fun onResume() {
+        super.onResume()
+        verifica()
+    }
 }
