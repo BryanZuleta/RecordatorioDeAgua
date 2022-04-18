@@ -61,7 +61,8 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
-        <RadioButton
+         <!--
+         <RadioButton
             android:id="@+id/radioButton2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -82,7 +83,43 @@
             android:text="Mujer"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView14" />
+         -->
+        
+        <!--los radio buttons se ingresan en una etiqueta nodo radiogroup y se agrega
+el android:checked="false" en el segundo radiobutton para que quede habilitado
+siempre uno solo de los 2 botones y no los 2 al mismo tiempo, ademas se asigna
+al layout de arriba del radio group el valor de 120 para que quede separado del
+titulo y label genero de todas maneras deje comentado el codigo anterior por si quieren volver a ponerlo -->
+        <RadioGroup
+            android:id="@+id/opciones_sexo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="120dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:layout_editor_absoluteX="6dp">
 
+            <RadioButton
+                android:id="@+id/radioButton2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="16dp"
+                android:checked="true"
+                android:text="Hombre"
+                tools:layout_editor_absoluteX="107dp"
+                tools:layout_editor_absoluteY="117dp" />
+
+            <RadioButton
+                android:id="@+id/radioButton3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="Mujer"
+                tools:layout_editor_absoluteX="189dp"
+                tools:layout_editor_absoluteY="117dp" />
+        </RadioGroup>
+        
         <EditText
             android:id="@+id/campoKg"
             android:layout_width="wrap_content"
