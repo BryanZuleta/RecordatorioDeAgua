@@ -116,8 +116,12 @@ class HomeActivity : AppCompatActivity() {
             myPreferenceUltimaHora.setMeta(currentDate)
         }
         textoScroll.text = "Tomaste "+myPreferenceUltimaAgua.getMeta()+"ml de agua a las: "+myPreferenceUltimaHora.getMeta()
-        barraProgreso.progress = (aguaTomada * 100 / valorMeta)
-        meta.text = "$aguaTomada / $valorMeta"
+      if (valorMeta == 0){ barraProgreso.progress = 0}
+        else {
+//lo que ya está ahí
+            barraProgreso.progress = (aguaTomada * 100 / valorMeta)
+            meta.text = "$aguaTomada / $valorMeta"
+        }
     }
 
     override fun onResume() {
